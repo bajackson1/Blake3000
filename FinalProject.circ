@@ -95,10 +95,10 @@
       <a name="addrWidth" val="5"/>
       <a name="appearance" val="classic"/>
       <a name="contents">addr/data: 5 8
-ef bb bf 4c 4f 41 44 20
-30 e2 80 86 20 e2 80 86
-20 e2 80 86 20 e2 80 86
-20 e2 80 86 20 e2 80 86
+4c 4f 41 44 9 32 31 a
+49 4e 50 55 54 9 30 a
+53 54 4f 52 45 9 34 33
+a 4c 4f 41 44 9 32 32
 </a>
       <a name="label" val="INSTRUCTIONS"/>
       <a name="labelvisible" val="true"/>
